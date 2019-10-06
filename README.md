@@ -1,2 +1,2 @@
 # Rural-India-Hackathon-Project
-A program that can detect the presence of groundwater and the most suitable crop to be grown in a place given its recent geographical and climatic data.
+In this project, I trained a deep neural network that can predict whether there is groundwater available in a given area or not based on geographical and meteorological information from the area (rainfall, temperature, altitude, etc). The system also recommends the best crop to grow in that area based on these features. Using this, farmers can find the ideal areas to look for groundwater and choose the appropriate crop, so that they can maximize their yield and revenue.
